@@ -2,20 +2,17 @@
   "id": 35,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Kick Clip Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/kick-clip-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/kick-clip-downloader",
   "purchase_url": "https://serp.ly/kick-clip-downloader",
   "store_product_id": null,
   "name": "Kick Clip Downloader",
-  "tagline": "https://serp.ly/kick-clip-downloader",
-  "featured_image": "images/kick-clip-downloader.jpg",
-  "featured_image_gif": "images/kick-clip-downloader.gif",
+  "tagline": "Save Kick.com clips and VODs with chat replay and emote support",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/kick-clip-downloader/assets/images/kick-clip-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/kick-clip-downloader/assets/images/kick-clip-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/kick-clip-downloader",
   "github_repo_tags": [
-    "kick-clip-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "kick-clip-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/kick-clip-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/kick-clip-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/kick-clip-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "video sharing"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/kick-clip-downloader",
     "https://devinschumacher.com/kick-clip-downloader",
-    "https://serp.co/products/kick-clip-downloader/reviews/"
+    "https://serp.co/products/kick-clip-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "kick-clip",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "kick clip downloader"
   ]
 }
